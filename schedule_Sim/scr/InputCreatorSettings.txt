@@ -1,0 +1,12 @@
+This file is used to set the different variables for the input file.
+Changing these values will result in an adjustment of the input to be file.
+	
+WIDTH_LIMIT = 10; // The max amount of CPU/IO burst pairs
+DEPTH_LIMIT = 50; // The max amount of threads
+
+MAX_ARRIVAL_TIME = 200; // Max arrival time
+MAX_CPU_BURST = 20; // Max CPU burst
+MAX_IO_BURST = 20; // Max IO burst
+
+MIN_PRIORITY = 0; // Min priority
+MAX_PRIORITY = 15; // Max priority
